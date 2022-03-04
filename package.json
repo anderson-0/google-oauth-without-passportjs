@@ -1,5 +1,5 @@
 {
-  "name": "node_heat",
+  "name": "google_oauth",
   "version": "1.0.0",
   "description": "Google Authentication without Passportjs and saving user data with Prisma ORM",
   "author": "Anderson da Silva <anderson.consultan.it@outlook.com>",
